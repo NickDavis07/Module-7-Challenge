@@ -15,7 +15,8 @@
 The README Generator is a command-line tool that helps developers quickly create professional-quality README files for their projects. By answering a series of prompts, the generator assembles a customized README with essential sections such as project description, installation instructions, usage details, and license information.
 
 ## Video Demonstration
-[Watch the demo video](./Video/2024-12-04 23-52-53.mkv)
+[Watch the demo video on YouTube](https://youtu.be/DWMaVCB8CXQ)
+
 
 
 
