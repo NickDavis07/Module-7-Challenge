@@ -1,5 +1,5 @@
 
-# Module-7-Challenge Sample README
+# README Generator
 
 ![License Badge](https://img.shields.io/badge/license-MIT-blue)
 
@@ -14,22 +14,22 @@
 - [Questions](#questions)
 
 ## Description
-This is the sample README created through the challenge 7 project.
+This is the description
 
 ## Installation
-Have this whole thing installed and good to go so you can create a simple README like this.
+installation instructions
 
 ## Usage
-Use it to create a readme
+This is the usage information
 
 ## Features
-Prompts through Inquirer, type responses and then have response writtin in markdown format.
+This is a README Generator that prompts the user and then creates a nicely formatted README
 
 ## Tests
-Run the application and ensure it works.
+Test
 
 ## Credits
-No additional collabs
+No Collabs
 
 ## License
 MIT

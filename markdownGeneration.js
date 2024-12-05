@@ -7,7 +7,7 @@ function generateLicenseBadge(license) {
     return '';
 }
 
-export default function markdownGeneration(data) { 
+export default function markdownGeneration(data) {
     const licenseBadge = generateLicenseBadge(data.license);
 
     return `
