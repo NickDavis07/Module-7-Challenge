@@ -37,6 +37,7 @@ function writeToFile(file, data) {
 }
 
 // TODO: Create a function to initialize app
+//Init function utilizing inquirer to prompt the questions and utilize the answers to write the README file. 
 function init() {
     inquirer.prompt(questions).then((answers) => {
         const markdown = markdownGeneration(answers);
